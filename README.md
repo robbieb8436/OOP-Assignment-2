@@ -1,3 +1,4 @@
 # OOP-Assignment-2
-A text based puzzle game
-Using data structures to model the map and to assign attributes for the rooms.
+A text based tycoon game
+Used fully OOP principles to design and implement a game with set classes and used inheritance and incapsulation to ensure that everything is stored correctly.
+Achieved 99.5%
